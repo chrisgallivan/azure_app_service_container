@@ -19,12 +19,3 @@ variable "image_name" {
   description = "Name of the docker image. Must be unique."
   type        = string
 }
-
-variable "CLIENT_ID"{
-}
-variable "CLIENT_SECRET"{
-}
-variable "SUBSCRIPTION_ID"{
-}
-variable "TENANT_ID"{
-}
